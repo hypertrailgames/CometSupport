@@ -2,7 +2,7 @@
 Comet is a simple game about fun astrodynamics.
 
 ### Gameplay
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yhiXR4tY0U8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/embed/yhiXR4tY0U8
 
 ### Screenshots
 
