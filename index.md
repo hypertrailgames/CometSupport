@@ -3,7 +3,6 @@ Comet is a simple game about fun astrodynamics.
 
 ### Gameplay
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/yhiXR4tY0U8"></iframe>
-### Screenshots
 
 ### Instructions
 * Tap and Drag to draw a trajectory.
