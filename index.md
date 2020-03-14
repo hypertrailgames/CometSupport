@@ -4,6 +4,7 @@ Comet is a simple game about fun astrodynamics.
 ### Gameplay
 [![Everything Is AWESOME]](https://www.youtube.com/watch?v=yhiXR4tY0U8 "Everything Is AWESOME")
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/yhiXR4tY0U8"></iframe>
 ### Screenshots
 
 ### Instructions
