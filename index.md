@@ -13,9 +13,8 @@ Comet is a simple game about fun astrodynamics.
 * That's all, Have fun!
 
 ### Download
-
-[Apple App Store](https://google.com) 
-[Google Play](https://play.google.com/store/apps/details?id=com.AlternativeControls.Comet) 
+* [Apple App Store](https://google.com) 
+* [Google Play](https://play.google.com/store/apps/details?id=com.AlternativeControls.Comet) 
 
 ### Contact
-## hypertrailgames@gmail.com
+* hypertrailgames@gmail.com
